@@ -3,7 +3,7 @@
 .Event Handler
 .conditional rendering
 
-#Project steps:
+# Project steps:
   part 1: make sure that increment, decrement and reset functionality works 
   part 2: disable buttons
 
